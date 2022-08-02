@@ -1,13 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1569e033.css",
-    "main.js": "/portfolio/static/js/main.63dbabb6.js",
+    "main.css": "/portfolio/static/css/main.85913c69.css",
+    "main.js": "/portfolio/static/js/main.1144eb7a.js",
+    "static/media/header-illutration.svg": "/portfolio/static/media/header-illutration.53dee0caf6e214aa8d71ed3b67ab2db3.svg",
+    "static/media/frontend.svg": "/portfolio/static/media/frontend.98ad61586970f1f22f67089b48d7788e.svg",
+    "static/media/contact.svg": "/portfolio/static/media/contact.6b34d0f781fd0336db71e66ec9902e83.svg",
+    "static/media/menu-img.svg": "/portfolio/static/media/menu-img.703bdc5640cdf66e1a59092d7d54f87e.svg",
+    "static/media/backend.svg": "/portfolio/static/media/backend.c302f7ce82181b17d857c516b0b74edd.svg",
+    "static/media/machine-learning.svg": "/portfolio/static/media/machine-learning.ef4ae23b09e0708534ef9bf26c8592e2.svg",
+    "static/media/mern-stack.svg": "/portfolio/static/media/mern-stack.55407a9b959c5fef25179bbd76840435.svg",
+    "static/media/brand-logo.svg": "/portfolio/static/media/brand-logo.7dc198908ea1b62888c73213f3c4a66b.svg",
+    "static/media/menu.svg": "/portfolio/static/media/menu.b53b6fc8d7fbb5be87ea8598d10dfc74.svg",
+    "static/media/remove.svg": "/portfolio/static/media/remove.1d2b0c2a56a60e66eda08ff9c9a684fc.svg",
     "index.html": "/portfolio/index.html",
-    "main.1569e033.css.map": "/portfolio/static/css/main.1569e033.css.map",
-    "main.63dbabb6.js.map": "/portfolio/static/js/main.63dbabb6.js.map"
+    "main.85913c69.css.map": "/portfolio/static/css/main.85913c69.css.map",
+    "main.1144eb7a.js.map": "/portfolio/static/js/main.1144eb7a.js.map"
   },
   "entrypoints": [
-    "static/css/main.1569e033.css",
-    "static/js/main.63dbabb6.js"
+    "static/css/main.85913c69.css",
+    "static/js/main.1144eb7a.js"
   ]
 }
